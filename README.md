@@ -1,1 +1,18 @@
 # AI-Project
+Link to Project 1 - Search - http://ai.berkeley.edu/search.html
+
+Link to Project 2 - Multiagent - http://ai.berkeley.edu/multiagent.html
+
+Link to Project 3 - Reinforcement - http://ai.berkeley.edu/reinforcement.html
+
+Link to Project 4 - Deep Learning with Tensorflow - https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/
+  
+  To access project 4:
+    
+    1. Sign in to EDX
+    
+    2. Select the CS188x course 
+    
+    3. Click Course tab 
+    
+    4. Under Week 14, click Project 6: Classification
