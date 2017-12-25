@@ -1,4 +1,13 @@
 # AI-Project
+
+•	Implemented graph search algorithms such as BFS, DFS, Dijkstra’s, and A-star algorithms and heuristics
+
+•	Implemented Pac-Man agents using machine learning, A* search, alpha-beta minimax, and expectimax techniques.
+
+•	Programmed reinforcement learning algorithms such as value iteration and Q-learning.
+
+•	Implemented the perceptron algorithm and gradient descent, which were used to train neural network classifiers. Trained a convolutional neural network to learn better features on a set of scanned handwritten digit images.
+
 Link to Project 1 - Search - http://ai.berkeley.edu/search.html
 
 Link to Project 2 - Multiagent - http://ai.berkeley.edu/multiagent.html
